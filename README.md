@@ -10,6 +10,5 @@ Collection of scripts used in the conversion of medical record summaries into cl
 5. Using the predicted dataset, create vizualisations to analyse the data, such as dotplots (with dotplots.ipynb) and temporal profile plots (with temporal_profiling.ipynb).
 
 
-Contact:
+Contact: <br>
 n.j.mekkes@umcg.nl
-i.r.holtman@umcg.nl
